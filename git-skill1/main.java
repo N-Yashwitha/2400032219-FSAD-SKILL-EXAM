@@ -1,2 +1,3 @@
-hello git
 feature update added
+bug fixed here
+
